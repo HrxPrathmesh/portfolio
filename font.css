@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "ProximaNova";
+  src: url("/Fonts/HelveticaNowDisplay-ExtraBold.woff");
+  src: url("../ProximaNova-Boldd41d.html?#iefix") format("embedded-opentype"),
+    url("/Fonts/Helvetica-Bold.ttf") format("woff"),
+    url("/Fonts/helvetica-light-587ebe5a59211.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProximaNovaCond";
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf");
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf?#iefix")
+      format("embedded-opentype"),
+    url("./HelveticaNowDisplay-ExtraBold.woff") format("woff"),
+    url("/Fonts/helvetica-light-587ebe5a59211.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf");
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf?#iefix")
+      format("embedded-opentype"),
+    url("/Fonts/Helvetica.ttf") format("woff"),
+    url("/Fonts/helvetica-light-587ebe5a59211.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProximaNovaT";
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf");
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf?#iefix")
+      format("embedded-opentype"),
+    url("/Fonts/HelveticaNowDisplay-ExtraBold.woff") format("woff"),
+    url("/Fonts/helvetica-light-587ebe5a59211.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ProximaNovaCond";
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf");
+  src: url("/Fonts/helvetica-light-587ebe5a59211.ttf?#iefix")
+      format("embedded-opentype"),
+    url("/Fonts/HelveticaNowDisplay-ExtraBold.woff") format("woff"),
+    url("/Fonts/HelveticaNowDisplay-ExtraBold.woff") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
